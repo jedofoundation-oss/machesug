@@ -1,0 +1,6 @@
+{
+  "name": "MachesHMS",
+  "description": "MyHealth Hospital Management Information System for MachesUg covering patients, consultations, laboratory, radiology, pharmacy, inpatient wards, billing, maternity, HR, and donations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
